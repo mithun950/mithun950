@@ -4,8 +4,7 @@
 <img width="100%" src="https://media-hosting.imagekit.io//ebe1fd653f934fc8/Black%20Yellow%20Simple%20Profile%20Linkedin%20Banner%20-%20Copy.png?Expires=1830929615&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=wyZL33EiO1exDzr8P-vN6Iy7OC8cAKViLljAB9-e7DeBooZksjNa2QX9pJR0FaE7yiXTSOXjU5juTOsajyKVouCHptMp1ZEPzjQt39lC5YOM0QGItOAytGrmzsoZ6LDKOZrOaNyBCMfJym5eRaHfV55NKJlLwLO92ihly4Wc39IpiddUwg7naejMCRYCZo-QaZzVQTA1dAYLIkcLhQlFsjAWt2bwliOYCE8Qc51ohg8bqsuyBwgXQkPZJouvCQTnFRRhy0kF4GYHIVf-b-kB2ktXdD8VoPbEEY3S-Qro4QI4svZdDsp3IVM3-pqlJ-IARRXTPP5kFYj~MFjQHwxntg__" alt="cover" />
 </div>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=mithun950&label=Profile%20views&color=0e75b6&style=flat" alt="mithun profile" /> </span> 
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Methunur Rashid</h1>  
-<h3 align="center">A passionate web developer from Bangladesh</h3>  
+
 <div align="center">
   <img src="https://img.shields.io/badge/focus-FullStack-critical" alt="Focus Badge" />
   <img src="https://img.shields.io/badge/living-Dhaka-3c9" alt="Living Badge" />
@@ -15,6 +14,10 @@
     <img src="https://img.shields.io/github/followers/tanvirGHD?label=Follow&style=social" alt="GitHub Followers Badge" />
   </a>
 <br>
+
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Methunur Rashid</h1>  
+<h3 align="center">A passionate web developer from Bangladesh</h3>  
+
 
 <p align="center"> <a href="https://github.com/mithun950/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakilahmedatik&row=1&column=6&theme=onedark" alt="shakilahmedatik" /></a> </p>
 
