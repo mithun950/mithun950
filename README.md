@@ -6,6 +6,14 @@
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=mithun950&label=Profile%20views&color=0e75b6&style=flat" alt="mithun profile" /> </span> 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Methunur Rashid</h1>  
 <h3 align="center">A passionate web developer from Bangladesh</h3>  
+<div align="center">
+  <img src="https://img.shields.io/badge/focus-FullStack-critical" alt="Focus Badge" />
+  <img src="https://img.shields.io/badge/living-Dhaka-3c9" alt="Living Badge" />
+  <img src="https://img.shields.io/badge/age-22-blueviolet" alt="Age Badge" />
+  <img src="https://komarev.com/ghpvc/?username=tanvirGHD&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Badge" />
+  <a href="https://github.com/tanvirGHD">
+    <img src="https://img.shields.io/github/followers/tanvirGHD?label=Follow&style=social" alt="GitHub Followers Badge" />
+  </a>
 <br>
 
 <p align="center"> <a href="https://github.com/mithun950/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakilahmedatik&row=1&column=6&theme=onedark" alt="shakilahmedatik" /></a> </p>
