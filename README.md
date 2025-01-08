@@ -1,4 +1,6 @@
 <h1 align="center">Hello there👋,I'm Methunur Rashid Rony</h1>
+<img src="https://ibb.co.com/Lpp5HjK"/>
+
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://ibb.co.com/Lpp5HjK" alt="mithun950" /> </p>
