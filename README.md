@@ -10,8 +10,8 @@
   <img src="https://img.shields.io/badge/living-Dhaka-3c9" alt="Living Badge" />
   <img src="https://img.shields.io/badge/age-22-blueviolet" alt="Age Badge" />
   <img src="https://komarev.com/ghpvc/?username=tanvirGHD&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Badge" />
-  <a href="https://github.com/tanvirGHD">
-    <img src="https://img.shields.io/github/followers/tanvirGHD?label=Follow&style=social" alt="GitHub Followers Badge" />
+  <a href="https://github.com/mithun950">
+    <img src="https://img.shields.io/github/followers/mithun950?label=Follow&style=social" alt="GitHub Followers Badge" />
   </a>
 <br>
 
