@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Visa Navigator](https://visa-navigate-6d091.web.app/all-visas)
 
-- 🌱 I’m currently learning **Javascript from Programming Hero**
+- 🌱 I’m currently learning **React js from Programming Hero**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-616e0.web.app/](https://my-portfolio-616e0.web.app/)
 
