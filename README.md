@@ -1,7 +1,7 @@
 <h1 align="center">Hello there👋,I'm Methunur Rashid Rony</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mithun950&label=Profile%20views&color=0e75b6&style=flat" alt="mithun950" /> </p>
+<p align="left"> <img src="https://ibb.co.com/Lpp5HjK" alt="mithun950" /> </p>
 
 - 🔭 I’m currently working on [Visa Navigator](https://visa-navigate-6d091.web.app/all-visas)
 
