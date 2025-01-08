@@ -35,14 +35,26 @@
 <br>
   
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
-<p align="left">  
-  
-<small> 
-<a href="https://www.linkedin.com/in/methunur-rashid-rony-a738ba317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
 
-<a href="https://www.facebook.com/mithun.rashid.2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakil.atik15" height="30" width="40" /></a>  
- </small>
-</p>  
+<div align="center">
+  <a href="https://www.linkedin.com/in/methunur-rashid-rony-a738ba317/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo" />
+  </a>
+  <a href="https://t.me/01831421301" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="30" alt="telegram logo" />
+  </a>
+  <a href="https://wa.me/01943252411" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="30" alt="whatsapp logo" />
+  </a>
+  <a href="https://discord.com/users/methunurrashidrony_91903" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="30" alt="discord logo" />
+  </a>
+  <a href="https://www.facebook.com/mithun.rashid.2024" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" height="30" alt="facebook logo" />
+  </a>
+
+</div>
+
 
 <br> 
   
@@ -78,7 +90,15 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
-<br>
+
+<!-- Technologies Slider -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=6000&pause=2000&center=true&vCenter=true&width=700&lines=HTML5+CSS3+JavaScript+Typescript+React+;ES6+Redux+React-Router+Context-API+Git+;Tailwind-CSS+Bootstrap-5+Styled-Components+SASS+MaterialUI;Firebase+Nodejs+ExpressJs+MongoDB+JWT;React-Native+NextJs+Gatsby+Heroku+Netlify" alt="Typing SVG" />
+  </a>
+</p>
+
+<br> 
   <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px"> </h2>
 
 
