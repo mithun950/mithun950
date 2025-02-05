@@ -22,6 +22,8 @@
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+<p>💻 I’m a Front-End Web Developer skilled in HTML, CSS, TailwindCSS, JavaScript, React, and API integration. Alongside my front-end expertise, I have hands-on experience with Node.js, Express.js, MongoDB, and JWT authentication, enabling me to work confidently across the 🎯MERN stack.</p>
+
 - 🔭 I’m currently working visa Vitu Glow
 - 🌱 I’m currently learning javascript,reactJs.
 - 💬 Talk to me about React, Node, JavaScript, Freelancing Opportunities etc.
