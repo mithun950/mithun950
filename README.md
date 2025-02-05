@@ -26,8 +26,9 @@
 </p>
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <div  align="left">
-<p>🔭 I’m currently working visa Vitu Glow</p> 
-<p>🌱 I’m currently learning javascript,reactJs.</p> 
+<p>🔭 I’m currently working visa Vitu Glow</p>  
+<p> 🎯 I’m currently learning JWT and Axios Interceptor</p>
+<p>👨‍💻 Ask me about HTML, CSS, TailwindCSS, DOM, API, JavaScript,React, Nodejs, Mongodb, firebase</p>
 <p>💬 Talk to me about React, Node, JavaScript, Freelancing Opportunities etc.</p>
 📫 Reach me at **mithunrony46@gmail.com**
 <p>📫 My Portfolio link **https://my-portfolio-616e0.web.app/**</p>
