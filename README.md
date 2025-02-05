@@ -25,7 +25,7 @@
 
 </p>
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<div>
+<div  align="left">
 <p>🔭 I’m currently working visa Vitu Glow</p> 
 <p>🌱 I’m currently learning javascript,reactJs.</p> 
 <p>💬 Talk to me about React, Node, JavaScript, Freelancing Opportunities etc.</p>
