@@ -31,7 +31,7 @@
 <p>👨‍💻 Ask me about HTML, CSS, TailwindCSS, DOM, API, JavaScript,React, Nodejs, Mongodb, firebase</p>
 <p>💬 Talk to me about React, Node, JavaScript, Freelancing Opportunities etc.</p>
 📫 Reach me at **mithunrony46@gmail.com**
-<p>📫 My Portfolio link **https://my-portfolio-616e0.web.app/**</p>
+<p>📫 My Portfolio link https://my-portfolio-616e0.web.app </p>
 </div>
 <br>
   
